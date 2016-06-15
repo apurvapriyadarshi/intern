@@ -1,0 +1,12 @@
+.jumbotron
+{
+    background-size: cover;
+    background-image: url(pics/x-men-hd-artwork.jpg);
+    background-repeat:no-repeat;
+    height: 100%;
+}
+.loader{
+     margin-top: 490px;
+    margin-left: 1200px;
+    
+}
